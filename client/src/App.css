@@ -1,7 +1,5 @@
-/* simple selector */
 body{
   height: 100%;
-  /* background-color: rgb(253, 243, 223); */
 }
 header{
   border-radius: 5px;
@@ -30,7 +28,6 @@ article{
   border-radius: 5px;
   border: 1px solid steelblue;
   background-color: white;
-  /* background-color: tomato; */
 }
 input{
   width: 300px;
